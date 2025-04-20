@@ -35,17 +35,10 @@ This project leverages two complementary frameworks for LLM-based agent orchestr
 
 Click below to launch the Colab notebooks demonstrating each agent pattern:
 
-* **Pattern A: ReAct Agent (LangGraph + LangSmith)**
-    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zReActLangGraphDemo)
-* **Pattern A: ReAct Agent (CrewAI)**
-    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zReActCrewAIDemo)
-
-> 🔜 Upcoming patterns:
-> - Multi-Agent Routing
-> - Conditional Transitions
-> - Task Decomposition
-> - Stateful Decision-Making
-> - Memory-Aware Loops
+* **A. LangGraph + LangSmith**
+    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1zReActLangGraphDemo](https://colab.research.google.com/drive/1eySqYSudwl4O1BMlhG142oFFdGu6dRgu?usp=sharing))
+* **B. CrewAI**
+    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1zReActCrewAIDemo](https://colab.research.google.com/drive/142KaBWUaWW3aPE6indlyUysDuwIFB3q8?usp=sharing))
 
 ---
 
