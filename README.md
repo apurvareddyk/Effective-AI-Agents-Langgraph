@@ -62,7 +62,7 @@ Click below to launch the Colab notebooks demonstrating each agent pattern:
 
 Watch walkthroughs of each pattern (with debugging and trace analysis):
 
-[![YouTube Playlist](https://img.shields.io/badge/YouTube-Watch_Tutorials-red?logo=youtube)](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_LINK)
+[![YouTube Link](https://img.shields.io/badge/YouTube-Watch_Tutorial-red?logo=youtube)](https://youtu.be/qQcb13GtU1E)
 
 ---
 
